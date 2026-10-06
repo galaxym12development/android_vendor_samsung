@@ -85,6 +85,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m12-common/proprietary/vendor/firmware/tdnr_SR846.json:$(TARGET_COPY_OUT_VENDOR)/firmware/tdnr_SR846.json \
     vendor/samsung/m12-common/proprietary/vendor/firmware/txse1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/txse1.bin \
     vendor/samsung/m12-common/proprietary/vendor/firmware/txse2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/txse2.bin \
+    vendor/samsung/m12-common/proprietary/vendor/lib/hw/gralloc.exynos850.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.exynos850.so \
+    vendor/samsung/m12-common/proprietary/vendor/lib/libGrallocMapperCamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGrallocMapperCamera.so \
     vendor/samsung/m12-common/proprietary/vendor/lib/lib_SoundAlive_3DPosition_ver202.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SoundAlive_3DPosition_ver202.so \
     vendor/samsung/m12-common/proprietary/vendor/lib/lib_SoundAlive_AlbumArt_ver105.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SoundAlive_AlbumArt_ver105.so \
     vendor/samsung/m12-common/proprietary/vendor/lib/lib_SoundAlive_play_plus_ver400.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SoundAlive_play_plus_ver400.so \
@@ -93,6 +95,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m12-common/proprietary/vendor/lib/soundfx/libmysound.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmysound.so \
     vendor/samsung/m12-common/proprietary/vendor/lib/soundfx/libmyspace.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmyspace.so \
     vendor/samsung/m12-common/proprietary/vendor/lib/soundfx/libsamsungSoundbooster_plus.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libsamsungSoundbooster_plus.so \
+    vendor/samsung/m12-common/proprietary/vendor/lib64/hw/gralloc.exynos850.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.exynos850.so \
+    vendor/samsung/m12-common/proprietary/vendor/lib64/libGrallocMapperCamera.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGrallocMapperCamera.so \
     vendor/samsung/m12-common/proprietary/vendor/lib64/lib_SoundAlive_3DPosition_ver202.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_SoundAlive_3DPosition_ver202.so \
     vendor/samsung/m12-common/proprietary/vendor/lib64/lib_SoundAlive_AlbumArt_ver105.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_SoundAlive_AlbumArt_ver105.so \
     vendor/samsung/m12-common/proprietary/vendor/lib64/lib_SoundAlive_play_plus_ver400.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_SoundAlive_play_plus_ver400.so \
