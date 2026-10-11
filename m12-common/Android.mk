@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter m12,$(TARGET_DEVICE)),)
+ifneq ($(filter a12s m12,$(TARGET_DEVICE)),)
 
 endif
